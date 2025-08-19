@@ -17,6 +17,7 @@ import pl from './lang/pl';
 import he from './lang/he';
 import ja from './lang/ja';
 import zhtw from './lang/zh-tw';
+import zhcn from './lang/zh-cn';
 import nl from './lang/nl';
 import lt from './lang/lt';
 import tr from './lang/tr';
@@ -45,6 +46,7 @@ export const terms = {
     nl,
     he,
     'zh-tw': zhtw,
+    'zh-cn': zhcn,
     lt,
     tr,
     ko,

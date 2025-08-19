@@ -2,46 +2,43 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
+  first: 张
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I'm just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: 三
+about: 大家好，我叫张三。我是一个无聊的人。 我喜欢收集树叶。我不是机器人。请雇佣我。
+position: 软件开发工程师
 
 birth:
   year: 1990
-  location: New York
+  location: 上海
 
 # you may add more experiences by duplicating the template
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
+- company: 公司A
+  position: 软件开发工程师
+  timeperiod: 2016-01-01 ~ 至今
+  description: 编写程序自动采集处理可爱的猫的视频。
   website: https://example.com
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: 公司B
+  position: 前端开发工程师
+  timeperiod: 2015-01-01 ~ 2015-12-31
+  description: 完成复杂页面的渲染。
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: 公司C
+  position: 实习生
+  timeperiod: 2014-03-31 ~ 2014-12-31
+  description: 在mentor指导下完成开发任务。
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
+- degree: 硕士
+  timeperiod: 2012-03-01 ~ 2013-12-31
+  description: 美国纽约大学信息安全专业
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: 本科
+  timeperiod: 2009-03-01 ~ 2011-12-31
+  description: 美国洛杉矶UCLA电器工程专业
 
 # skill level goes from 0 to 100
 skills:
@@ -61,38 +58,37 @@ skills:
   level: 70
 - name: Docker
   level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+knowledge: 熟练使用Adobe Photoshop和Illustrator，中英文母语熟练度。
 
 projects:
 - name: best-resume-ever
   platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+  timeperiod: 2016-02
+  description: 用Vue和LESS快速简易地构建漂亮的简历
   url: https://github.com/salomonelli/best-resume-ever
 
 # optional, not all resume templates have hobbies included
 hobbies:
-- name: Video Games
+- name: 电子游戏
   iconClass: fa fa-gamepad
   url: https://example.com
 
-- name: Drawing
+- name: 绘画
   iconClass: fa fa-pencil
   url: https://example.com
 
 contributions:
 - name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+  description: 快速简易地构建漂亮的简历
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
+  email: zhang.san@email.com
   phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
-# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
-lang: en
+  street: 长寿路
+  city: 上海
+  website: zhangsan.com
+  github: zhangsan
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, zh-cn, lt, ko, el, nb-no
+lang: zh-cn
 `
